@@ -1,0 +1,42 @@
+{
+  "slug": "ahsmi-caterers-and-events-kozhinjampara",
+  "name": "Ahsmi Caterers & Events",
+  "shortName": "Ahsmi",
+  "descriptor": "Catering & Events",
+  "address": "Ahsmi imperial, road, opposite state ware house, Kozhinjampara, Palakkad, Keralam 678555",
+  "area": "Kozhinjampara",
+  "city": "Kozhinjampara",
+  "district": "Palakkad",
+  "region": "Kerala",
+  "postalCode": "678555",
+  "geo": {
+    "lat": 10.7441868,
+    "lng": 76.83047669999999
+  },
+  "mapsLink": "https://maps.google.com/?cid=15930546420805069855",
+  "phone": "+91 96562 73577",
+  "whatsapp": "919656273577",
+  "hours": "Open 24 hours · all days",
+  "opens": "00:00",
+  "closes": "23:59",
+  "rating": 4.5,
+  "reviewCount": 2,
+  "reviews": [
+    {
+      "name": "Sowmiya Flour mill",
+      "rating": 5,
+      "quote": "Great food, good quality and professional service, highly recommended.."
+    },
+    {
+      "name": "Aadul D",
+      "rating": 4,
+      "quote": "Good food and best biriyani ever"
+    }
+  ],
+  "gallery": [
+    "gallery/01.webp",
+    "gallery/02.webp",
+    "gallery/03.webp"
+  ],
+  "url": "https://ahsmi-caterers-and-events-kozhinjam.vercel.app"
+}
